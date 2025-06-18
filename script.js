@@ -33,7 +33,7 @@ function startFakeHopeLoop() {
 startFakeHopeLoop();
 
 puzzleButton.addEventListener("click", () => {
-  window.location.href = "https://yourusername.github.io/puzzle-game/";
+  window.location.href = "https://snhvn.github.io/puzzle-game/";
 });
 
 window.addEventListener("load", () => {
